@@ -67,8 +67,8 @@ export default function Footer() {
         justify={{ base: "center", md: "space-between" }}
         align={{ base: "center", md: "center" }}
       >
-        <Logo />
-        <Text>© 2022 Chakra Templates. All rights reserved</Text>
+        {/* <img src="/logou.png" style={{ height: "50px", width: "50px" }} /> */}
+        <Text>© Artivision. All rights reserved</Text>
         <Stack direction={"row"} spacing={6}>
           <SocialButton label={"Twitter"} href={"#"}>
             <FaTwitter />

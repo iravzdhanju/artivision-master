@@ -12,7 +12,7 @@ const Homepage = () => {
       {/* <div className="contentHomepage"> */}
       <UserForms />
       {/* </div> */}
-      {/* <Footer /> */}
+      <Footer />
     </main>
     //
   );
