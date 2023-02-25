@@ -13,3 +13,8 @@
     justify-content: space-between;
 }
 /* .contentHomepage{min-height: 50vh;} */
+
+
+
+
+.spinnerSpan{display: flex;align-items: center;justify-content: center;gap: 5px;}
